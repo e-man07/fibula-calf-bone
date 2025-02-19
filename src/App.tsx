@@ -58,14 +58,14 @@ function App() {
           
           <div className="space-y-8 max-w-4xl mx-auto">
             <h1 className="text-5xl sm:text-7xl font-black text-white tracking-tight">
-              Calf Bone
+              Fibula
               <span className="block mt-2 text-blue-500">
                 Information
               </span>
             </h1>
             
             <p className="text-xl sm:text-2xl text-gray-400 max-w-2xl mx-auto font-light">
-              Explore the fascinating world of calf bone anatomy and its 3D representation.
+              Explore the fascinating world of Fibula anatomy and its 3D representation.
             </p>
 
             {/* Buttons Container */}
@@ -74,7 +74,7 @@ function App() {
                 onClick={() => window.open('https://my.clevelandclinic.org/health/body/23122-fibula-calf-bone', '_blank', 'noopener,noreferrer')}
                 className="group relative overflow-hidden rounded-xl px-8 py-4 text-lg font-medium text-white bg-blue-500 transition-all duration-300 hover:bg-blue-600 hover:-translate-y-1 hover:shadow-[0_0_40px_0_rgba(59,130,246,0.3)]"
               >
-                <span className="relative z-10">About Calf Bone</span>
+                <span className="relative z-10">About Fibula</span>
               </button>
               
               <button 
